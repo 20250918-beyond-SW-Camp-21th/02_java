@@ -18,5 +18,9 @@ public class Application1 {
         String str = (num%2==1)?"홀수다":"짝수다";
         System.out.println(str);
 
+        int a = 22;
+
+        System.out.println((a%2==0)?"짝수다":"홀수다");
+
     }
 }
